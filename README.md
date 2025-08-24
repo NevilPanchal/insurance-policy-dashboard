@@ -1,5 +1,3 @@
-# insurance-policy-dashboard
-
 # Insurance Policy Dashboard (Excel Cleaning + Power BI)
 
 A simple data-cleaning and visualization project. I cleaned an insurance dataset in Excel (handling missing values) and then built an interactive dashboard in Power BI.
